@@ -27,4 +27,4 @@ Two Detectron2 Zoo models were used in the project by applying Transfer Learning
 ### b. Combining the Two Models' Results:
 We calculated the overlapping between the segments from the Parts Detection model and the Damage Detection model, and returned every part with the overlapping damages based on a certain IoU (Intersection over Union).
 
-![Alt text](image_url)
+![Methodology](/mthd.png)
