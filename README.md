@@ -30,4 +30,4 @@ We calculated the overlapping between the segments from the Parts Detection mode
 
 ![Methodology](/mthd.png)
 
-** More Information in ** ```qadder_report.pdf```
+**More Information in** ```qadder_report.pdf```
