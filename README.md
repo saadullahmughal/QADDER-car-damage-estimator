@@ -29,3 +29,5 @@ Two [Detectron2](https://github.com/facebookresearch/detectron2/blob/main/MODEL_
 We calculated the overlapping between the segments from the Parts Detection model and the Damage Detection model, and returned every part with the overlapping damages based on a certain IoU (Intersection over Union).
 
 ![Methodology](/mthd.png)
+
+** More Information in ** ```qadder_report.pdf```
