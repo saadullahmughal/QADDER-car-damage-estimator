@@ -1,4 +1,4 @@
-# car-damage-estimator
+![LOGO](/logo.png)
 This Project are a part of Building and Developing AI Models Bootcamp Requirements, Tuwaiq Academy.
 
 Team members :
@@ -7,7 +7,7 @@ Team members :
 - Roqaih Aldarjan
 - Marwah Thari
 
-# Introduction
+# QADDER (Car Damage Estimator)
 This project aims to reduce time and human effort by automating the process of vehicle damage inspection resulting from accidents using Deep Learning and Computer Vision Techniques. The system is designed to identify the various parts of the vehicle and detect any damaged components. After identifying the damages, the system generates a report listing the affected parts.
 
 This solution not only improves efficiency but also enhances accuracy in damage assessment, offering a faster and more reliable way to inspect vehicles after accidents.
