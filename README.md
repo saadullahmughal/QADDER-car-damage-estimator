@@ -48,4 +48,4 @@ Generate basic report :
 Download PDF Report :
 ![Inference4](examples/ex4.gif)
 
-**More Information in** ![report](qadder_report.pdf)
+**More Information in** [report](qadder_report.pdf)
