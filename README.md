@@ -32,5 +32,16 @@ We calculated the overlapping between the segments from the Parts Detection mode
 
 
 ## Inference
-![Inference](examples/inference.gif)
+Uploading Image & Specifying Car Information :
+![Inference1](examples/ex1.gif)
+
+Double check the model output :
+![Inference2](examples/ex2.gif)
+
+Generate basic report :
+![Inference3](examples/ex3.gif)
+
+Download PDF Report :
+![Inference4](examples/ex4.gif)
+
 **More Information in** ```qadder_report.pdf```
