@@ -1,4 +1,4 @@
-![LOGO](/bnr.png.png)
+![LOGO](examples/bnr.png.png)
 This Project are a part of Building and Developing AI Models Bootcamp Requirements, Tuwaiq Academy.
 
 Team members :
