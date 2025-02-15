@@ -1,0 +1,10 @@
+numpy
+streamlit
+pandas
+torch
+torchvision
+opencv-python
+pillow
+InvoiceGenerator
+streamlit-option-menu
+git+https://github.com/facebookresearch/detectron2.git@main
